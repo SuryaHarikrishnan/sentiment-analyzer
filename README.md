@@ -74,5 +74,3 @@ sentiment-analyzer/
 Surya Narayanan Harikrishnan
 
 ---
-
-Feel free to fork, star, or improve this repo. Let’s build cool things with AI! 🤖
